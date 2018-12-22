@@ -1,9 +1,0 @@
-{
-  "commitish" : "0.5.1",
-  "iOS" : [
-    {
-      "name" : "RxCoreData",
-      "hash" : "72cc6b399b9cdbd23fdc69dc7a5973371744afa454b012dad0e24f1bdd5240a8"
-    }
-  ]
-}
