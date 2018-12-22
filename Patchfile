@@ -1,0 +1,4 @@
+ignoreMap:
+  - RxSwift:
+    - targets: [RxSwift-iOS, RxSwift-macOS, RxSwift-tvOS, RxSwift-watchOS]
+  - SVProgressHUD

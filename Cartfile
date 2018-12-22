@@ -1,1 +1,3 @@
-github "ishkawa/APIKit" ~> 3.0
+github "RxSwiftCommunity/RxCoreData"
+github "ReactiveX/RxSwift"
+github "SVProgressHUD/SVProgressHUD"
